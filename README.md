@@ -43,7 +43,7 @@ which are multicasted.
 in the multicast events.
 
 
-A sample config looks something like this:
+A sample config snippet when integrated with glance looks something like this:
 
 ```ini
 rpc_backend = rabbit
